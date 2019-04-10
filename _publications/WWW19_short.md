@@ -1,7 +1,7 @@
 ---
 title: "Semantic Hilbert Space for Text Representation Learning"
 collection: publications
-permalink: /publications/WWW19_short
+permalink: /publication/WWW19_short
 excerpt: 'We introduce the Semantic Hilbert Space to model different levels of linguistics units, and build a complex-valued network to implement the framework for text classification.'
 date: 2019-03
 venue: 'The Web Conference 2019 (WWW2019)'
