@@ -2,7 +2,7 @@
 title: "Quantum-inspired Complex Word Embedding"
 collection: publications
 permalink: /publication/acl18-workshop
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'We build a complex-valued word embedding approach, inspired by quantum theory and quantum probability.'
 date: 2018-06-01
 venue: 'the 3rd ACL Workshop on Representation Learning for NLP (Rep4NLP)'
 paperurl: 'https://qiuchili.github.io/files/acl18-workshop.pdf'
