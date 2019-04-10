@@ -1,7 +1,7 @@
 ---
 title: "Modeling Multi-query Retrieval Tasks Using Density Matrix Transformation"
 collection: publications
-permalink: /publications/SIGIR_2015
+permalink: /publication/SIGIR_2015
 excerpt: 'We propose a Session-based Quantum Language Model (SQLM) that deals with multi-query session search task.'
 date: 2015-08-09
 venue: 'the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR2015)'
