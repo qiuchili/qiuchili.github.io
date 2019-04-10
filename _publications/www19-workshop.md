@@ -1,0 +1,13 @@
+---
+title: "Contextual Compositionality Detection with External Knowledge Bases and Word Embeddings"
+collection: publications
+permalink: /publication/www19-workshop
+excerpt: 'We claim the phrase compositionality detection is a contextual task and address the task by considering the context of a phrase.'
+date: 2019-05-16
+venue: 'WWW2019 International Workshop on Deep Learning for Graphs and Structured Data Embedding (DL4G-SDE)'
+paperurl: 'https://qiuchili.github.io/files/www19-workshop.pdf'
+citation: 'Dongsheng Wang, Qiuchi Li, Lucas Chaves Lima, Jakob Grue Simenson and Christina Lioma. (2019). &quot;Contextual Compositionality Detection with External Knowledge Bases and Word Embeddings.&quot; <i>WWW2019 International Workshop on Deep Learning for Graphs and Structured Data Embedding (DL4G-SDE)</i>. '
+---
+When the meaning of a phrase cannot be inferred from the individ-ual meanings of its words (e.g.,hot dog), that phrase is said to benon-compositional. Automatic compositionality detection in multi-word phrases is critical in any application of semantic processing,such as search engines; failing to detect non-compositionalphrases can hurt system effectiveness notably. Existing researchtreats phrases as either compositional or non-compositional in adeterministic manner. In this paper, we operationalize the view-point that compositionality is contextual rather than deterministic,i.e., that whether a phrase is compositional or non-compositionaldepends on its context. For example, the phrase “green card” iscompositional when referring to a green colored card, whereas it isnon-compositional when meaning permanent residence authoriza-tion. We address the challenge of detecting this type of contextualcompositionality as follows: given a multi-word phrase, we en-rich the word embedding representing its semantics with evidenceabout its global context (terms it often collocates with) as well asits local context (narratives where that phrase is used, which wecallusage scenarios). We further extend this representation with in-formation extracted from external knowledge bases. The resultingrepresentation incorporates both localized context and more gen-eral usage of the phrase and allows to detect its compositionality ina non-deterministic and contextual way. Empirical evaluation of ourmodel on a dataset of phrase compositionality1, manually collectedby crowdsourcing contextual compositionality assessments, showsthat our model outperforms state-of-the-art baselines notably ondetecting phrase compositionality.
+
+[Download paper here](https://qiuchili.github.io/files/www19-workshop.pdf)
