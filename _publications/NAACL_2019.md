@@ -1,7 +1,7 @@
 ---
 title: "CNM: An Interpretable Complex-valued Network for Matching"
 collection: publications
-permalink: /publications/NAACL_2019
+permalink: /publication/NAACL_2019
 excerpt: 'We build a semantic matching network with complex-valued components driven by quantum theory. It outperforms strong baseline question answering (QA) models and exhibits a certain degree of interpretability.'
 date: 2019-04
 venue: '2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2019)'
