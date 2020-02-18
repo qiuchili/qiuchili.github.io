@@ -1,4 +1,3 @@
-
 ---
 title: "Assessing the Memory Ability of Recurrent Neural Networks"
 collection: publications
