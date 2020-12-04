@@ -3,8 +3,8 @@ title: "A Multi-task Learning Framework for Opinion Triplet Extraction"
 collection: publications
 permalink: /publication/emnlp20-finding
 excerpt: 'A Multi-task Learning Framework for Extracting Opinion Triplet.'
-date: 2019-05-10
-venue: 'The 28th International Joint Conference on Artificial Intelligence (IJCAI2019)'
+date: 2020-12-03
+venue: 'The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)'
 paperurl: 'https://qiuchili.github.io/files/emnlp20-finding.pdf'
 citation: 'Chen Zhang, Qiuchi Li, Dawei Song and Benyou Wang. &quot;A Multi-task Learning Framework for Opinion Triplet Extraction (2020). &quot; 
 <i>In Findings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020, Long, Findings).</i>.'
