@@ -1,12 +1,12 @@
 ---
-title: "Encoding word order in complex embeddings"
+title: "Encoding Word Order in Complex Embeddings"
 collection: publications
 permalink: /publication/iclr20-long
 excerpt: 'We encode word order information in a complex-value word embedding mechanism.'
 date: 2019-09-25
 venue: '2020 International Conference on Learning Representations (ICLR 2020)'
 paperurl: 'https://qiuchili.github.io/files/iclr20-long.pdf'
-citation: 'Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang and Jakob Grue Simonsen. (2020). &quot;Encoding word order in complex embeddings.&quot; <i> 2020 International Conference on Learning Representations (ICLR 2020)</i>.'
+citation: 'Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang and Jakob Grue Simonsen. (2020). &quot;Encoding Word Order in Complex Embeddings.&quot; <i> 2020 International Conference on Learning Representations (ICLR 2020)</i>.'
 ---
 Sequential word order is important when processing text. Currently, neural networks (NNs) address this by modeling word position using position embeddings. The problem is that position embeddings capture the position of individual words, but not the ordered relationship (e.g., adjacency or precedence) between individual word positions. We present a novel and principled solution for modeling both the global absolute positions of words and their order relationships. Our solution generalizes word embeddings, previously defined as independent vectors, to continuous word functions over a variable (position). The benefit of continuous functions over variable positions is that word representations shift smoothly with increasing positions. Hence, word representations in different positions can correlate with each other in a continuous function. The general solution of these functions can be extended to complex-valued variants. We extend CNN, RNN and Transformer NNs to complex-valued versions to incorporate our complex embedding (we make all code available). Experiments on text classification, machine translation and language modeling show gains over both classical word embeddings and position-enriched word embeddings. To our knowledge, this is the first work in NLP to link imaginary numbers in complex-valued representations to concrete meanings (i.e., word order).
 
