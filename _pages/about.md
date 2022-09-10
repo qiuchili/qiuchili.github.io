@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Qiuchi Li is a postdoctoral research fellow at University of Copenhagen. He takes interests in the broad areas of natural language processing and information retrieval. For a long time, he has been working on building quantum-inspired theoretical frameworks and developing computational methods for representing and manuipulating textual and multi-modal data. 
+Qiuchi Li is a postdoctoral research fellow at University of Copenhagen. He takes interests in the broad areas of natural language processing and information retrieval. For a long time, he has been working on building quantum-theoretic frameworks for language representation and understanding, with application to IR and NLP tasks by complex-valued neural networks or tensor networks. In the meantime, he is keen on addressing NLP and IR problems with models that could be implemented on quantum computing devices.
 
 Qiuchi Li received his Ph.D. from the department of Information Engineering, University of Padua in 2020, and B.E. from the department of Electronic Engineering, Tsinghua University, China in 2015. He was engaged as a research student in the department of Computing and Communications, Open University, UK in 2015-2017. Since January 2021, he joined in the Machine Learning Section, department of computer science, University of Copenhagen as a postdoc researcher.
 
