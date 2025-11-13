@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qiuchi Li"
 title_separator          : "-"
 name                     : &name "Qiuchi Li"
-description              : &description "Assistant Professor at University of Copenhagen"
+description              : &description "Professor at Beijing Institute of Technology"
 url                      : https://qiuchili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiuchili/qiuchili.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qiuchi Li"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at University of Copenhagen"
-  location         : "Copenhagen, Denmark"
+  bio              : "Professor at Beijing Institute of Technology"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vZ3-V8oAAAAJ&hl=en"
-  email            :
+  email            : "liqiuchi@bit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
