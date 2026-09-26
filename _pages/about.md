@@ -13,13 +13,13 @@ I am **Qiuchi Li**, a professor (Tenure-track) at Beijing Institute of Technolog
 ---
 ### Education
 
-- 2011 - 2015    B.E., department of Electronic Engineering, Tsinghua University, Beijing, China
-- 2017 - 2021    Ph.D., department of Information Engineering, University of Padua, Padua, Italy
+- **2011 - 2015**    B.E., department of Electronic Engineering, Tsinghua University, Beijing, China
+- **2017 - 2021**    Ph.D., department of Information Engineering, University of Padua, Padua, Italy
 
 ### Work 
-- 2021 - 2023    Postdoc, department of computer science, University of Copenhagen, Copenhagen, Denmark
-- 2023 - 2025    Assistant Professor, department of computer science, University of Copenhagen, Copenhagen, Denmark
-- 2025 -         Professor(Tenured), School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China
+- **2021 - 2023**    Postdoc, department of computer science, University of Copenhagen, Copenhagen, Denmark
+- **2023 - 2025**    Assistant Professor, department of computer science, University of Copenhagen, Copenhagen, Denmark
+- **2025 - Now**     Professor(Tenured), School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China
 
 ---
 ### Research Interests
